@@ -1,0 +1,11 @@
+
+<view class="header" style="flex-direction:row;">
+
+    <image src="{{source}}" mode="fulltoFill"  class="pic"/>
+
+    <button type="primary" bindtap="getImage" class="button_anniu">点击我选择相册</button>
+
+    <button bindtap="preview"><image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2334255281,1297666570&fm=200&gp=0.jpg"  class="swiper"></image></button>
+
+    <button bindtap="goIndex" class="button_anniu"> 发布 </button>
+</view>

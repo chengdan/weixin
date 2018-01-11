@@ -1,0 +1,8 @@
+<view>豆子App</view>
+<image src="../../images/20160731102936_YtW23.png"/>
+<ul>
+    <li><navigator url="../logs/logs" class="fr">登录</navigator></li>
+    <li><navigator url="../detail/detail" class="fl">详情</navigator></li>
+    <li><navigator url="../pic/pic" class="fl">图片</navigator></li>
+    <li><navigator url="../music/music" class="fl">音乐</navigator></li>
+</ul>

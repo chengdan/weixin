@@ -1,0 +1,4 @@
+
+<image src="http://y.gtimg.cn/music/photo_new/T002R300x300M000003rsKF44GyaSk.jpg?max_age=2592000"/>
+<button bindtap="getMius">点击播放音乐</button>
+<button type="primary" bindtouchstart="startRecode" bindtouchend="endRecode" class="cxbtn btn">按住录音</button>

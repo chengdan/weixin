@@ -1,0 +1,7 @@
+
+<view>这是我随便写的一款小程序，这里面只写了
+    <navigator url="../pic/pic">打开图片</navigator>
+    <navigator url="../music/music">播放音乐</navigator>
+    几种功能，如有需要请自行体验(点击上方两个按钮可直接体验)
+</view>
+

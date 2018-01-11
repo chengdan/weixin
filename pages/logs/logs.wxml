@@ -1,0 +1,12 @@
+
+<view class="itemView">用户名
+  <input class="input" name="userName" placeholder="请输入用户名"/>
+</view>
+<view class="itemView">密    码
+  <input class="input" password placeholder="请输入密码"/>
+</view>
+<button bindtouchstart="login">登陆</button>
+
+<button bindtouchstart="go">发送请求</button>
+
+

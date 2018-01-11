@@ -1,0 +1,16 @@
+/*view{*/
+    /*display: block;*/
+    /*height: 50px;*/
+    /*text-align: center;*/
+    /*line-height: 50px;*/
+    /*font-weight: 700;*/
+    /*position: relative;*/
+/*}*/
+navigator{
+    text-align: center;
+    width: 100%;
+    margin-top: 2px;
+    color: #fff;
+    font-size: 12px;
+    background-color: navajowhite;
+}
